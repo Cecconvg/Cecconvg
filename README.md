@@ -1,5 +1,8 @@
-## Hi there 👋
+### boas vindas ao meu perfil 💙 
 
+meu nome é Julia
+
+- estou estudando no alura;
 <!--
 **Cecconvg/Cecconvg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
