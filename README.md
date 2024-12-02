@@ -2,7 +2,8 @@
 
 meu nome é Julia
 
-- estou estudando no [alura](https://www.alura.com.br)
+- estou estudando no Colégio C.C.M Ivan Ferreira do Amaral filho
+- estou realizando o ensino médio
 - estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
